@@ -35,18 +35,18 @@
 В ходе работы были использованы следующие функции:
 
 
-![enter image description here](https://ibb.co/MV37s1B)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/VSPTtCw/1.png" alt="1" border="0"></a>
 
 
 
-![enter image description here](https://ibb.co/Qc5dv9n)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7z94tvV/2.png" alt="2" border="0"></a>
 
 
 
 Результат выполнения программы:
 
 
-![enter image description here](<a href="https://imgbb.com/"><img src="https://i.ibb.co/RSng0hz/1.png" alt="1" border="0"></a>)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/RSng0hz/1.png" alt="1" border="0"></a>
 
 ## Список используемых источников
 

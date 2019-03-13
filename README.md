@@ -46,7 +46,7 @@
 Результат выполнения программы:
 
 
-![enter image description here](https://ibb.co/9vXpTws)
+![enter image description here](<a href="https://imgbb.com/"><img src="https://i.ibb.co/RSng0hz/1.png" alt="1" border="0"></a>)
 
 ## Список используемых источников
 

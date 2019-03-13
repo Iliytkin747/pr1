@@ -95,13 +95,11 @@
 В ходе работы были использованы следующие функции:
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/VSPTtCw/1.png" alt="1" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>picture upload</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/VSPTtCw/1.png" alt="1" border="0"></a><br />
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7z94tvV/2.png" alt="2" border="0"></a><br />
 
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/7z94tvV/2.png" alt="2" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>picture upload</a><br />
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/8rhHn7Y/3.png" alt="3" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>picture upload</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8rhHn7Y/3.png" alt="3" border="0"></a><br />
 
 
 

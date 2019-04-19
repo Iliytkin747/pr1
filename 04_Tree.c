@@ -264,7 +264,7 @@ void dump(struct Node * Z)
 	else
 	{
 	}
-}
+} 
 
 int removeMin(Node* Z)
 {
